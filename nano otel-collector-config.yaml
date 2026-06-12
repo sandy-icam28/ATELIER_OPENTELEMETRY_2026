@@ -9,7 +9,7 @@ processors:
 
 exporters:
   otlphttp:
-    endpoint: https://jubilant-goggles-q7w6v466rx762x7x-14318.app.github.dev/   # URL vers Jaeger port 4318
+    endpoint: https://organic-capybara-69jwv5ww6qgr2rx75-14318.app.github.dev/   # URL vers Jaeger port 4318
   logging:
     loglevel: info
 
