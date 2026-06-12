@@ -9,7 +9,7 @@ processors:
 
 exporters:
   otlphttp:
-    endpoint: https://organic-capybara-69jwv5ww6qgr2rx75-14318.app.github.dev/  
+    endpoint: https://literate-space-tribble-pjx97w99vqwjhrq75-14318.app.github.dev/  
   logging:
     loglevel: info
 
